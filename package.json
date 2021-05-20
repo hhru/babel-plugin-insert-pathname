@@ -1,6 +1,6 @@
 {
     "name": "@hh.ru/babel-plugin-insert-pathname",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Babel plugin, which allows to add filename as an argument into function call",
     "main": "src/index.js",
     "scripts": {
