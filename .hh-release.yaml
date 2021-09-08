@@ -1,0 +1,3 @@
+version: 1.0.4
+update_method: npm_update
+push_method: npm_push
